@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-🎯 Java Backend Developer | Web Dev Enthusiast | Budding Data Analyst  
+🎯 Data Enthusiast | Azure & ML  | Budding Data Analyst  
 🚀 Currently leveling up in **Data Analysis, Power BI, and Azure**  
 🛠️ Passionate about building data-driven apps and solving real problems  
-🎓 Final year student | Lifelong Learner  
+🎓 MCA Graduated | Lifelong Learner  
 
 ---
 
@@ -35,7 +35,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreedsyed12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html" alt="Top Langs" />
 </p>
+
+
 ### 🧠 Tech Stack & Tools
+
 #### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -68,12 +71,21 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
+#### ☁️ Azure Services
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-003057?style=for-the-badge&logo=azuredatafactory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Synapse-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
 #### 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 
 ### 📜 Certifications
 - ✅ Java (HackerRank)  
