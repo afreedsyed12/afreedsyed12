@@ -29,13 +29,13 @@
 
 ---
 
-### 🧠 Tech Stack & Tools
+
 ### 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreedsyed12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html" alt="Top Langs" />
 </p>
-
+### 🧠 Tech Stack & Tools
 #### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
